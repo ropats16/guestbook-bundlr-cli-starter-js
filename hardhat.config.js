@@ -4,13 +4,13 @@ require('dotenv').config({ path: './.env' });
 require('hardhat-deploy');
 require('@nomiclabs/hardhat-ethers');
 
-const defaultNetwork = 'localhost';
+const defaultNetwork = 'rinkeby';
 
 /**
  * @type import('hardhat/config').HardhatUserConfig
  */
 module.exports = {
-  solidity: '0.8.10',
+  solidity: '0.8.7',
   defaultNetwork,
 
   networks: {
