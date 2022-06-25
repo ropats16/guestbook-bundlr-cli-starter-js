@@ -8,8 +8,8 @@ First, install the packages:
 yarn
 ```
 
-Then, use the following article and repository to folloe along:
+Then, use the following article and repository to follow along:
 
-- Article
+- [Article]().
 
-- Repository
+- [Final Repository]().
